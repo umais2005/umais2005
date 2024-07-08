@@ -96,13 +96,8 @@
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=umais&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/umais/itasks)
-[![Vehicle Analysis](https://github-readme-stats.vercel.app/api/pin/?username=umais2005&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/umais/urfolio)
-[![To Do List App](https://github-readme-stats.vercel.app/api/pin/?username=umais2005&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/umais2005/todo-app)
-[![umais2005 Siddiqui Readme](https://github-readme-stats.vercel.app/api/pin/?username=umais&repo=umais2005&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/umais2005/umais2005)
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/umais2005?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
